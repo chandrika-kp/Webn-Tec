@@ -650,6 +650,8 @@ a {
 }
 
 .co-img a {
+    text-decoration: underline;
+    cursor: pointer;
     color: var(--yellow);
     padding: 0 20px;
     font-size: 3em;
