@@ -839,7 +839,12 @@ footer p {
 
 }
 
-
+footer span {
+    color : var(--yellow);
+    
+}
+    
+    
 
 [type=button]:not(:disabled),
 [type=reset]:not(:disabled),
